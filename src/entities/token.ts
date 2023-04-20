@@ -100,5 +100,19 @@ export const WETH = {
     18,
     'WTOMO',
     'Wrapped TOMO'
+  ),
+  [ChainId.ZKSYNC_MAINNET]: new Token(
+    ChainId.ZKSYNC_MAINNET,
+    '0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91',
+    18,
+    'WETH',
+    'Wrapped ETH'
+  ),
+  [ChainId.ZKSYNC_TESTNET]: new Token(
+    ChainId.ZKSYNC_TESTNET,
+    '0x7502dcA039E16bf24ee7CbA60dbb5Dd5321FE1B4',
+    18,
+    'WETH',
+    'Wrapped ETH'
   )
 }
