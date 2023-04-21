@@ -114,5 +114,12 @@ export const WETH = {
     18,
     'WETH',
     'Wrapped ETH'
+  ),
+  [ChainId.OKBC_TESTNET]: new Token(
+    ChainId.OKBC_TESTNET,
+    '0x5834fE481C4eefeE6E04D95E3AC60a63e17bb649',
+    18,
+    'WOKB',
+    'Wrapped OKB'
   )
 }

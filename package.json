@@ -1,7 +1,7 @@
 {
   "name": "insswap-sdk",
   "license": "MIT",
-  "version": "2.0.1",
+  "version": "2.0.4",
   "description": "🛠 An SDK for building applications on top of inexchange.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
